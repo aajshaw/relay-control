@@ -1,2 +1,2 @@
 # relay-control
- Simple turn a RPi GPIO pin to high or low
+ Simple python script to turn a RPi GPIO pin to high or low
